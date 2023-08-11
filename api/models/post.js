@@ -7,7 +7,7 @@ const PostSchema = new mongoose.Schema({
     ref: "User"
   },
 
-  comments: [{ user_id: String, comment: String }],
+  comments: [{ user_id: String, comment: String }]
 });
 
 
