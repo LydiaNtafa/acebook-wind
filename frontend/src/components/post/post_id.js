@@ -1,7 +1,6 @@
 import NavigationBar from "../navigation/Navigation";
 import React, { useEffect, useRef, useState } from "react";
 import { useParams } from "react-router-dom";
-import NavigationBar from '../navigation/Navigation';
 // import EditPostForm from "./editPostForm"; // don't have this in at the moment, we could add it back later to make the code more DRY
 
 const PostId = () => {
