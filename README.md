@@ -4,12 +4,9 @@ In this project, you are tasked with working on an existing application. A signi
 
 ## Documentation
 
-# Install dependencies
-[More documentation of the codebase and its architecture can be found here.](./DOCUMENTATION.md) It's recommended you all read this _after making sure the whole setup below worked for everyone_. Then work together on a diagram describing how the application works.
-
 ## Card wall
 
-HERE IS OUR FANCY CARD WALL!
+Here is our Trello board:
 https://trello.com/b/LFLx9O1P/team-wind-acebook-project
 
 
